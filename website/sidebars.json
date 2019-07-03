@@ -2,7 +2,7 @@
   "docs": {
     "Getting Started": [
       "getting-started/what-is-proximax-sirius-chain",
-      "getting-started/setting-up-workstation",
+      "getting-started/setting-up-your-dev-environment",
       "getting-started/writing-first-application"
     ],
     "Protocol": [
@@ -13,6 +13,7 @@
       "protocol/receipt",
       "protocol/node"
     ],
+    "Super Contracts" :[],
     "Built-in Features": [
       "built-in-features/account",
       "built-in-features/account-filter",
@@ -20,6 +21,7 @@
       "built-in-features/namespace",
       "built-in-features/mosaic",
       "built-in-features/transfer-transaction",
+      "built-in-features/metadata-transaction",
       "built-in-features/aggregate-transaction",
       "built-in-features/cross-chain-swaps"
     ],
